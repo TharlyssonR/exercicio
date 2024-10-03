@@ -1,0 +1,16 @@
+
+
+
+.cardPrincipal{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 150px;
+    background-color: #252525;
+    color: #fff;
+}
+
+img{
+    height: 150px;
+}
